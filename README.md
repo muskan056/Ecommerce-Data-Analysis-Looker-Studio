@@ -3,4 +3,4 @@ E-commerce Data Analysis &amp; Reporting Dashboard built using Looker Studio to 
 
 ## Dashboard Preview
 
-![E-commerce Dashboard](Screenshot 2026-08-14 121637.png)
+![E-commerce Dashboard](Screenshot%202026-08-14%20121637.png)
