@@ -70,7 +70,7 @@ The dashboard provides insights into:
 
 ## 🔗 Live Dashboard
 
-[View Interactive Looker Studio Dashboard](PASTE-YOUR-LOOKER-STUDIO-LINK-HERE)
+[View Interactive Looker Studio Dashboard](https://datastudio.google.com/s/r0qdq1AvWmQ)
 
 ## 👩‍💻 Author
 
